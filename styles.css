@@ -1,0 +1,290 @@
+html{
+	background-color: #F7F7F7;
+}
+body{
+	max-width: 1170px;
+	width: 100%;
+	margin: 0 auto;
+}
+h1{
+	color: #111111;
+	font-size: 30px;
+	line-height: 43px;
+	margin-top: 90px;
+}
+.header-article1{
+	margin-top: 60px;
+	width: 642px;
+	font-size: 32.7px;
+	line-height: 48.6px;
+	color: #111111;
+}
+.header-article2{
+	margin-top: 60px;
+	width: 831.5px;
+	font-size: 25px;
+	line-height: 44px;
+	color: #959595;
+
+}
+.outils-thematiques{
+	margin-top: 60.75px;
+	display: flex;
+    justify-content: space-between;
+}
+.outils-block{
+	width: 502.77px;
+	height: 181px;
+}
+.outils-block span{
+	background-color: #0865DE;
+	font-size: 14;
+	line-height: 33.3px;
+	color: #FFFFFF;
+	margin-right: 48px;
+}
+.outils-thematiques h2{
+	font-size: 11px;
+	line-height: 20px;
+	color: #111111;
+}
+.thematiques-block{
+	width: 503px;
+	height: 181px;
+}
+.thematiques-block span{
+	background-color: #FFFFFF;
+	font-size: 14;
+	line-height: 33.3px;
+	color: #000000;
+	margin-right: 58px;
+}
+.imagebox1{
+	margin-top: 60px;
+	background-color: #FFFFFF;
+	width: 1170px;
+	height: 440px;
+	display: flex;
+}
+.picture1{
+	width: 760px;
+}
+.imagebox1 h3{
+	font-size: 14px;
+	line-height: 33.3px;
+	color: #262626;
+	margin-top: 39px;
+}
+.imagebox1text{
+	margin-left: 60px;
+}
+.imgbox1span1{
+	margin-top: 16px;
+	font-size: 15px;
+	line-height: 33.3px;
+	color: #262626;
+	display: block;
+}
+.imgbox1span2{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #959595;
+	display: block;
+}
+.imagebox1text article{
+	width: 289px;
+	height: 175px;
+	font-size: 15px;
+	line-height: 28px;
+	color: #434343;
+	overflow: hidden;
+}
+.box1footer{
+	margin-top: 48px;
+	display: flex;
+	align-items: center;
+}
+.box1footer .circle{
+	width: 22px;
+	height: 22px;
+	margin-right: 12px;
+}
+.box1footer span{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #002D69;
+}
+
+
+
+.imagebox2{
+	margin-top: 30px;
+	background-color: #FFFFFF;
+	width: 1170px;
+	height: 440px;
+	display: flex;
+}
+.picture2{
+	width: 760px;
+}
+.imagebox2 h3{
+	font-size: 14px;
+	line-height: 33.3px;
+	color: #262626;
+	margin-top: 39px;
+}
+.imagebox2text{
+	margin-left: 60px;
+}
+.imgbox2span1{
+	margin-top: 16px;
+	font-size: 15px;
+	line-height: 33.3px;
+	color: #262626;
+	display: block;
+}
+.imgbox2span2{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #959595;
+	display: block;
+}
+.imagebox2text article{
+	width: 289px;
+	height: 175px;
+	font-size: 15px;
+	line-height: 28px;
+	color: #434343;
+	overflow: hidden;
+}
+.box2footer{
+	margin-top: 48px;
+	display: flex;
+	align-items: center;
+}
+.box2footer .circle{
+	width: 22px;
+	height: 22px;
+	margin-right: 12px;
+}
+.box2footer span{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #002D69;
+}
+
+
+
+.imagebox3{
+	margin-top: 30px;
+	background-color: #FFFFFF;
+	width: 1170px;
+	height: 440px;
+	display: flex;
+}
+.picture3{
+	width: 760px;
+}
+.imagebox3 h3{
+	font-size: 14px;
+	line-height: 33.3px;
+	color: #262626;
+	margin-top: 39px;
+}
+.imagebox3text{
+	margin-left: 60px;
+}
+.imgbox3span1{
+	margin-top: 16px;
+	font-size: 15px;
+	line-height: 33.3px;
+	color: #262626;
+	display: block;
+}
+.imgbox3span2{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #959595;
+	display: block;
+}
+.imagebox3text article{
+	width: 289px;
+	height: 175px;
+	font-size: 15px;
+	line-height: 28px;
+	color: #434343;
+	overflow: hidden;
+}
+.box3footer{
+	margin-top: 48px;
+	display: flex;
+	align-items: center;
+}
+.box3footer .circle{
+	width: 22px;
+	height: 22px;
+	margin-right: 12px;
+}
+.box3footer span{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #002D69;
+}
+
+
+.imagebox4{
+	margin-top: 30px;
+	margin-bottom: 88px;
+	background-color: #FFFFFF;
+	width: 1170px;
+	height: 440px;
+	display: flex;
+}
+.picture4{
+	width: 760px;
+}
+.imagebox4 h3{
+	font-size: 14px;
+	line-height: 33.3px;
+	color: #262626;
+	margin-top: 39px;
+}
+.imagebox4text{
+	margin-left: 60px;
+}
+.imgbox4span1{
+	margin-top: 16px;
+	font-size: 15px;
+	line-height: 33.3px;
+	color: #262626;
+	display: block;
+}
+.imgbox4span2{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #959595;
+	display: block;
+}
+.imagebox4text article{
+	width: 289px;
+	height: 175px;
+	font-size: 15px;
+	line-height: 28px;
+	color: #434343;
+	overflow: hidden;
+}
+.box4footer{
+	margin-top: 48px;
+	display: flex;
+	align-items: center;
+}
+.box4footer .circle{
+	width: 22px;
+	height: 22px;
+	margin-right: 12px;
+}
+.box4footer span{
+	font-size: 12px;
+	line-height: 33.3px;
+	color: #002D69;
+}
