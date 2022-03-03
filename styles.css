@@ -1,10 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 html{
 	background-color: #F7F7F7;
 }
-body{
+.container{
 	max-width: 1170px;
 	width: 100%;
 	margin: 0 auto;
+}
+.wrapper {
+   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; 
+}
+.burger span {
+  width: 30px;
+  height: 3px;
+  margin: 5px 0;
+  background-color: #000000;
+}
+.burger {
+  display: none;
+  flex-direction: column;
 }
 h1{
 	color: #111111;
@@ -60,14 +80,13 @@ h1{
 	margin-right: 58px;
 }
 .imagebox1{
+	grid-template-columns: 75% 25%;
 	margin-top: 60px;
 	background-color: #FFFFFF;
-	width: 1170px;
-	height: 440px;
 	display: flex;
 }
 .picture1{
-	width: 760px;
+	/*width: 760px;*/
 }
 .imagebox1 h3{
 	font-size: 14px;
@@ -120,8 +139,6 @@ h1{
 .imagebox2{
 	margin-top: 30px;
 	background-color: #FFFFFF;
-	width: 1170px;
-	height: 440px;
 	display: flex;
 }
 .picture2{
@@ -178,8 +195,6 @@ h1{
 .imagebox3{
 	margin-top: 30px;
 	background-color: #FFFFFF;
-	width: 1170px;
-	height: 440px;
 	display: flex;
 }
 .picture3{
@@ -236,8 +251,6 @@ h1{
 	margin-top: 30px;
 	margin-bottom: 88px;
 	background-color: #FFFFFF;
-	width: 1170px;
-	height: 440px;
 	display: flex;
 }
 .picture4{
