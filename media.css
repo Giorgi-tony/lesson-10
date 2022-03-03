@@ -8,7 +8,7 @@
   .burger {
     display: flex;
     float:right;
-
+    margin-right: 5px;
   }
   .header-articles{
     background-color: lightgray;
